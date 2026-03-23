@@ -1,0 +1,15 @@
+feature,importance
+lag_12,0.8482
+month_idx,0.0431
+rolling_mean_3,0.0291
+mom_growth,0.0264
+lag_1,0.0241
+rolling_std_3,0.0061
+lag_3,0.0061
+lag_6,0.0047
+sin_month,0.0036
+rolling_mean_6,0.0033
+cos_month,0.0029
+quarter,0.0024
+is_q4,0.0002
+is_december,0.0
