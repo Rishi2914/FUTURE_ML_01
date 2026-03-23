@@ -172,7 +172,8 @@ python notebooks/FUTURE_ML_01.py
 - 🎓 Internship: Future Interns — Machine Learning Track
 - 📅 Year: 2026
 - 🐙 GitHub: [Rishi2914](https://github.com/Rishi2914)
-- 🔗 LinkedIn: [rishikesh-reddy-arjula](https://www.linkedin.com/in/rishikesh-reddy-arjula-259652264/)
+- 🔗 LinkedIn: [Rishikesh Reddy Arjula](https://www.linkedin.com/in/rishikesh-reddy-arjula-259652264/)
+- 📧 Email: [reddyrishikesh271@gmail.com](mailto:reddyrishikesh271@gmail.com)
 
 ---
 
